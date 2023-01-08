@@ -2,9 +2,9 @@ import os
 
 def menu():
 
-    print(""" 
+    print(""
 
-.◇◇◇◇◇◇◇..♡♡♡♡♡...◇◇◇◇◇◇..RR........######...######.
+.◇◇◇◇◇◇◇◇..♡♡♡♡♡...◇◇◇◇◇◇..RR........######...######.
 ....##....RR.....YY.RR.....RY.RY.......YY....YY.YY....RY
 ....##....RR.....YY.RR.....RY.RY.......YY.......YY......
 ....##....RR.....YY.RY.....RY.RY........♡♡♡♡♡...######.
@@ -470,13 +470,13 @@ while loop:
 
         os.system("cd /data/data/com.termux/files/home")
 
-        print("====================================")
+        print("==================Ry==================")
 
         print("[+] Nethunter installed successfully :)")
 
         print("[+] Go to Nethunter-In-Termux folder and type './kalinethunter' to start.")
 
-        print("====================================")
+        print("================Ry====================")
 
         rmenu = input("[?] Back to Menu? (y/n): ")
 
@@ -506,13 +506,13 @@ while loop:
 
         os.system("cd /data/data/com.termux/files/home")
 
-        print("====================================")
+        print("==================Ry==================")
 
         print("[+] angryFuzzer installed successfully :)")
 
         print("[+] Go to angryFuzzer folder and type 'python2 angryFuzzer.py' to start.")
 
-        print("====================================")
+        print("====================Ry================")
 
         rmenu = input("[?] Back to Menu? (y/n): ")
 
@@ -542,7 +542,7 @@ while loop:
 
         print("[+] Go to RED_HAWK folder and type 'php rhawk.php' to start.")
 
-        print("====================================")
+        print("===================Ry=================")
 
         rmenu = input("[?] Back to Menu? (y/n): ")
 
@@ -570,13 +570,13 @@ while loop:
 
         os.system("cd /data/data/com.termux/files/home")
 
-        print("====================================")
+        print("===================Ry=================")
 
         print("[+] weeman installed successfully :)")
 
         print("[+] Go to weeman folder and type 'python2 weeman.py' to start.")
 
-        print("====================================")
+        print("====================Ry================")
 
         rmenu = input("[?] Back to Menu? (y/n): ")
 
@@ -604,13 +604,13 @@ while loop:
 
         os.system("cd /data/data/com.termux/files/home")
 
-        print("====================================")
+        print("=================Ry===================")
 
         print("[+] IPGeoLocation installed successfully :)")
 
         print("[+] Go to IPGeoLocation folder and type 'python ipgeolocation.py' to start.")
 
-        print("====================================")
+        print("=====================Ry===============")
 
         rmenu = input("[?] Back to Menu? (y/n): ")
 
